@@ -89,8 +89,9 @@ For the Load test and Stress test Excel report check the link -
 
 ## HTML Reports
 ### Generated HTML report for DMoney Jmeter Collection Test
-![image](https://github.com/user-attachments/assets/7cfdb739-a18a-4055-9836-c1b132a2f53b)
-![image](https://github.com/user-attachments/assets/3d0231ab-9f62-485f-80cc-0f2cef2a5f39)
+![image](https://github.com/user-attachments/assets/0e37e706-3a3d-4b17-a6df-7b57cf70fb22)
+
+
 
 
 

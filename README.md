@@ -1,4 +1,4 @@
-# Permonce Testing Using JMeter
+# Performance Testing Using JMeter
 
 ## Content
 ## Introduction

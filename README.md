@@ -79,10 +79,11 @@ Search For Binaries: Then --> apache-jmeter-5.6.3.zip
 (https://docs.google.com/spreadsheets/d/1DYxrmWinmbZg5xTTA2m1FdvcTpX5NXieUWaZVdx-ppk/edit?gid=0#gid=0)
 
 ## Load Testing HTML Report
+![image](https://github.com/user-attachments/assets/a8832730-c6df-4f6c-8609-b726caefbf49)
 
 
 ## Stress Testing HTML Report
-![image](https://github.com/user-attachments/assets/c019041e-52f9-4c85-b768-6ac580b0943e)
+![image](https://github.com/user-attachments/assets/17f67bef-6819-4668-80db-6709b3af3e1b)
 
 
 ## HTML Reports

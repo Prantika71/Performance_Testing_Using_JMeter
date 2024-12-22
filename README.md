@@ -76,7 +76,8 @@ booking.
 Search For Binaries: Then --> apache-jmeter-5.6.3.zip
 - Postman: download and install Postman.
 # Load and Stress Test Excel Report
-(https://docs.google.com/spreadsheets/d/1DYxrmWinmbZg5xTTA2m1FdvcTpX5NXieUWaZVdx-ppk/edit?gid=0#gid=0)
+For the Load test and Stress test Excel report checkout the link
+[view excel report file](https://docs.google.com/spreadsheets/d/1DYxrmWinmbZg5xTTA2m1FdvcTpX5NXieUWaZVdx-ppk/edit?gid=1931672790#gid=1931672790)
 
 ## Load Testing HTML Report
 ![image](https://github.com/user-attachments/assets/a8832730-c6df-4f6c-8609-b726caefbf49)
